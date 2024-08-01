@@ -8,8 +8,7 @@
 
 
 Before you start doing anything with Nanopore sequencing you need to learn the basics of the command line and
-VIM (the text editor used in the command line). Please watch the videos below to learn the basics, this will
-take several hours.
+VIM (the text editor used in the command line). Please watch the videos below to learn the basics.
 
 Command Line Videos: https://www.youtube.com/watch?v=s3ii48qYBxA
 
@@ -25,9 +24,9 @@ VIM videos: https://www.youtube.com/watch?v=wACD8WEnImo&list=PLT98CRl2KxKHy4A5N7
 
 Tutorial video by Oxford Nanopore Technologies on how to use the MinKNOW software: https://www.youtube.com/watch?v=oCOixfewXo4
 
-Tutorial by me on some more details on how and where to direct file output from the MinKNOW: https://youtu.be/Tr4hCS6DBSQ
+my video tutorial with more information about using MinKNOW. It contains very important information, it is a must watch: https://youtu.be/Tr4hCS6DBSQ
 
-If you want to learn more about Nanopore sequencing watch the full Nanopore Masterclass series. Very useful information: https://www.youtube.com/watch?v=MYOSUCgr3Y4&list=PLxpxXZj-IgXwq7AUQ93ek7zcgMjS_E0Rd
+If you want to learn more about Nanopore sequencing watch the full Nanopore Masterclass series: https://www.youtube.com/watch?v=MYOSUCgr3Y4&list=PLxpxXZj-IgXwq7AUQ93ek7zcgMjS_E0Rd
 
 ##
 ## Step 3 - Pulling data from GenomeDK
@@ -35,11 +34,11 @@ If you want to learn more about Nanopore sequencing watch the full Nanopore Mast
 Video tutorial: https://youtu.be/v9ImfpTUMOE
 
 ##
-## Step 4 - Getting you basecalled and aligned data through the DNA Sequencing Pipeline for DNA modifications
+## Step 4 - Getting the data that bas been previously basecalled and aligned through the DNA Sequencing Pipeline for DNA modifications
 
 Pipeline GitHub with documentation: https://github.com/bernardo-heberle/DCNL_NANOPORE_PIPELINE
 
-Video Tutorial (Video was too long for YouTube, had to upload on Google Drive, download the file for better video quality. If you try to watch on Google Drive it will be pixelated): https://drive.google.com/file/d/1XZsST1Onb3EWIUMg-oB9u43Z0oijpGD3/view?usp=drive_link
+Video Tutorial (Video was too long for YouTube, had to upload on Google Drive. Download the file for better video quality. If you try to watch on Google Drive it will be pixelated): https://drive.google.com/file/d/1XZsST1Onb3EWIUMg-oB9u43Z0oijpGD3/view?usp=drive_link
 
 
 
@@ -61,12 +60,12 @@ A different pipeline made by me to analyze RNAseq/cDNAseq Nanopore Data: https:/
 
 Other things that will help you become a better bioinformatician and data analyst:
 
-- Free courses teaching command line basics and bash scripting.
-- Basic programming courses in Python and/or R.
-- Courses for data analysis and statistics in Python and/or R.
-- Learning about software containers by Apptainer.
-- Learning about Zenodo and Synapse.org as free data repositories to share data upon publication,
-- DOING DATA ANALYSIS AND BIOINFORMATICS. TRY TO FIGURE THINGS OUT AS YOU GO. NOTHING BUILD PROFICIENCY LIKE REAL WORLD PROBLEMS AND PRACTICE.
+- Take free courses teaching command line basics and bash scripting.
+- Take introductory programming courses in Python and/or R.
+- Take courses for data analysis and statistics in Python and/or R.
+- Learn about software containers by Apptainer.
+- Learning about Zenodo and Synapse.org. these are free data repositories to share data upon publication,
+- DO DATA ANALYSIS AND BIOINFORMATICS. TRY TO FIGURE THINGS OUT AS YOU GO. NOTHING BUILDS PROFICIENCY LIKE REAL WORLD PROBLEMS AND PRACTICE.
 
 
   ##
@@ -74,7 +73,7 @@ Other things that will help you become a better bioinformatician and data analys
 
   https://drive.google.com/drive/folders/1cElMLgfCq_6pnn4O0P0AomFrAS0E8C_s?usp=drive_link\
 
-  Notice that the powerpoints contain a lot of animations, so you may need to see it in presentation mode and click through the animations to see all of the pictures.
+  Notice that the powerpoints contain a lot of animations, so you may need to see it in presentation mode and click through the animations to see all of the figures.
   Feel free to use any slides for your own presentations/projects.
 
 ##
