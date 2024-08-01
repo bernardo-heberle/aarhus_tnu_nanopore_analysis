@@ -46,7 +46,7 @@ Video Tutorial (Video was too long for YouTube, had to upload on Google Drive, d
 ##
 ## Description of main output from DNA Sequencing Pipeline for DNA modifications
 
-Video Tutorial: 
+Video Tutorial: https://youtu.be/w4Ylvjt_zrU
 
 Modkit Documentation: https://nanoporetech.github.io/modkit/quick_start.html
 
