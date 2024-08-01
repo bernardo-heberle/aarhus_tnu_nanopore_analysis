@@ -55,6 +55,8 @@ Modkit Documentation: https://nanoporetech.github.io/modkit/quick_start.html
 
 Learn more about NextFlow: https://www.nextflow.io/docs/latest/index.html
 
+Many other NextFlow pipelines for all kinds of data analysis in the nfcore community: https://nf-co.re/pipelines/ - https://nf-co.re/
+
 A different pipeline made by me to analyze RNAseq/cDNAseq Nanopore Data: https://github.com/UK-SBCoA-EbbertLab/cDNA_pipeline
 
 Other things that will help you become a better bioinformatician and data analyst:
