@@ -25,7 +25,7 @@ VIM videos: https://www.youtube.com/watch?v=wACD8WEnImo&list=PLT98CRl2KxKHy4A5N7
 
 Tutorial video by Oxford Nanopore Technologies on how to use the MinKNOW software: https://www.youtube.com/watch?v=oCOixfewXo4
 
-Tutorial by me on some more details on how and where to direct file output from the MINKNOW: https://youtu.be/Tr4hCS6DBSQ
+Tutorial by me on some more details on how and where to direct file output from the MinKNOW: https://youtu.be/Tr4hCS6DBSQ
 
 If you want to learn more about Nanopore sequencing watch the full Nanopore Masterclass series. Very useful information: https://www.youtube.com/watch?v=MYOSUCgr3Y4&list=PLxpxXZj-IgXwq7AUQ93ek7zcgMjS_E0Rd
 
