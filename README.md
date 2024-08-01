@@ -64,6 +64,11 @@ Other things that will help you become a better bioinformatician and data analys
 - Courses for data analysis and statistics in Python and/or R.
 - Learning about software containers by Apptainer.
 - Learning about Zenodo and Synapse.org as free data repositories to share data upon publication.
+
+  ##
+  ## You can find all of the powerpoints I presented during the workshop, the PDF to the publication I presented on, and downloadable video files for the tutorials I recorded in the shared Google Drive below:
+
+  https://drive.google.com/drive/folders/1cElMLgfCq_6pnn4O0P0AomFrAS0E8C_s?usp=drive_link
 - DOING DATA ANALYSIS AND BIOINFORMATICS AND TRYING TO FIGURE THINGS OUT AS YOU GO. NOTHING BUILD PROFICIENCY LIKE REAL WORLD PROBLEMS AND PRACTICE.
 
 
