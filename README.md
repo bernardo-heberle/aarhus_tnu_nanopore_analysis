@@ -14,8 +14,10 @@ Command Line Videos: https://www.youtube.com/watch?v=s3ii48qYBxA
 VIM videos: https://www.youtube.com/watch?v=wACD8WEnImo&list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x
 
 
-
+#
 # It is assumed that you are accessing the Desktop computer in the "DNA Lab" at Aarhus to perform Steps 2 through Step 5.
+#
+
 
 ## Step 2 - The basics of Nanopore sequencing and setting up your sequencing run and basecalling.
 
