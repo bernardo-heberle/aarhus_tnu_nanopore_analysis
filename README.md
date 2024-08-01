@@ -1,7 +1,9 @@
+#
 # aarhus_tnu_nanopore_analysis
-One stop shop with tutorials necessary to perform DNA Nanopore Analysis
 
+### One stop shop with tutorials necessary to perform DNA Nanopore Analysis
 
+##
 ## Step 1 - Command line basics (Skip if you already know how to use the terminal and VIM or another command line text editor like nano): 
 
 
@@ -27,20 +29,42 @@ Tutorial by me on some more details on how and where to direct file output from 
 
 If you want to learn more about Nanopore sequencing watch the full Nanopore Masterclass series. Very useful information: https://www.youtube.com/watch?v=MYOSUCgr3Y4&list=PLxpxXZj-IgXwq7AUQ93ek7zcgMjS_E0Rd
 
-
+##
 ## Step 3 - Pulling data from GenomeDK
 
 Video tutorial: https://youtu.be/v9ImfpTUMOE
 
-
+##
 ## Step 4 - Getting you basecalled and aligned data through the DNA Sequencing Pipeline for DNA modifications
 
 Pipeline GitHub with documentation: https://github.com/bernardo-heberle/DCNL_NANOPORE_PIPELINE
 
-Video Tutorial: 
+Video Tutorial (Video was too long for YouTube, had to upload on Google Drive, download the file for better video quality. If you try to watch on Google Drive it will be pixelated): https://drive.google.com/file/d/1XZsST1Onb3EWIUMg-oB9u43Z0oijpGD3/view?usp=drive_link
 
 
 
+##
 ## Description of main output from DNA Sequencing Pipeline for DNA modifications
 
+Video Tutorial: 
 
+Modkit Documentation: https://nanoporetech.github.io/modkit/quick_start.html
+
+##
+## If you want to learn more:
+
+Learn more about NextFlow: https://www.nextflow.io/docs/latest/index.html
+
+A different pipeline made by me to analyze RNAseq/cDNAseq Nanopore Data: https://github.com/UK-SBCoA-EbbertLab/cDNA_pipeline
+
+Other things that will help you become a better bioinformatician and data analyst:
+
+- Free courses teaching command line basics and bash scripting.
+- Basic programming courses in Python and/or R.
+- Courses for data analysis and statistics in Python and/or R.
+- Learning about software containers by Apptainer.
+- Learning about Zenodo and Synapse.org as free data repositories to share data upon publication.
+- DOING DATA ANALYSIS AND BIOINFORMATICS AND TRYING TO FIGURE THINGS OUT AS YOU GO. NOTHING BUILD PROFICIENCY LIKE REAL WORLD PROBLEMS AND PRACTICE.
+
+
+If you get really stuck and can't find a solution after trying to troubleshoot on your own for at least 3 days feel free to contact me: bernardo.aguzzoli@gmail.com
