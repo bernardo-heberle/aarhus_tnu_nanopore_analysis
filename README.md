@@ -34,7 +34,7 @@ If you want to learn more about Nanopore sequencing watch the full Nanopore Mast
 Video tutorial: https://youtu.be/v9ImfpTUMOE
 
 ##
-## Step 4 - Getting the data that bas been previously basecalled and aligned through the DNA Sequencing Pipeline for DNA modifications
+## Step 4 - Getting the data that has been previously basecalled and aligned through the DNA Sequencing Pipeline for DNA modifications
 
 Pipeline GitHub with documentation: https://github.com/bernardo-heberle/DCNL_NANOPORE_PIPELINE
 
