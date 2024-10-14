@@ -63,9 +63,9 @@ Other things that will help you become a better bioinformatician and data analys
 - Take free courses teaching command line basics and bash scripting.
 - Take introductory programming courses in Python and/or R.
 - Take courses for data analysis and statistics in Python and/or R.
-- Learn about software containers by Apptainer.
+- Learn about software containers like Apptainer/Singularity, Docker, and others.
 - Learning about Zenodo and Synapse.org. these are free data repositories to share data upon publication,
-- DO DATA ANALYSIS AND BIOINFORMATICS. TRY TO FIGURE THINGS OUT AS YOU GO. NOTHING BUILDS PROFICIENCY LIKE REAL WORLD PROBLEMS AND PRACTICE.
+- Do data analysis and bionformatics projects. Nothing build proficiency like real world problems and practice.
 
 
   ##
